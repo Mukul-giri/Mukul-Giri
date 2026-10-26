@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mukul Giri 👋
 
-<!--
-**Mukul-giri/Mukul-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year B.Tech student specializing in Computer Science Engineering (AI & ML).
 
-Here are some ideas to get you started:
+- 🐍 Currently learning Python
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📚 Building my programming fundamentals and exploring AI/ML
+- 🎯 Looking for internship opportunities to learn and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- Python (Learning)
+- Git and GitHub (Learning)
+
+## 📂 Projects
+I'm currently learning and will add my projects here as I build them.
+
+## 📫 Connect with Me
+- GitHub: [@Mukul-Giri](https://github.com/Mukul-Giri)
+
+---
+⭐ Thanks for visiting my profile!
